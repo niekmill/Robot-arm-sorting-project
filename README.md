@@ -17,7 +17,7 @@ This project involves the integration of a robotic arm with object detection cap
 3. **Define Starting Pose**:
    - Established a basic starting pose for the arm and filled in the remaining MoveIt configurations for exporting.
   
-   ![Screenshot 1](ConstructScreenshots/robotpose)
+   ![Screenshot 2](ConstructScreenshots/robotpose)
 
 ### Step 2: Object Detection
 1. **Camera Positioning**:
@@ -33,7 +33,7 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Camera Control**:
    - Utilized the calculated distances to adjust the camera's pan and tilt, maximizing object visibility.
   
-   ![Screenshot 1](ConstructScreenshots/cameraimage1)
+   ![Screenshot 3](ConstructScreenshots/cameraimage1)
 
 ### Step 3: Pick up of simple objects (TRIED)
 1. Choose the smallest and closest objects from the camera. (NEED TO GRAB IT BUT FAILED)
@@ -42,7 +42,7 @@ This project involves the integration of a robotic arm with object detection cap
 4. Drop the object in the dropzone
 5. Repeat the process until it's done
 
-![Screenshot 1](ConstructScreenshots/cameraimage2)
+![Screenshot 4](ConstructScreenshots/cameraimage2)
 
 
 ### Individual contribution:
