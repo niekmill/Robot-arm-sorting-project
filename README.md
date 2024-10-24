@@ -9,7 +9,6 @@ This project involves the integration of a robotic arm with object detection cap
 1. **Create Planning Groups**:
    - Configured planning groups for the robotic arm and gripper.
   
-   ![Screenshot 1](ConstructScreenshots/planninggroup.png)
    <img src="ConstructScreenshots/planninggroup.png" alt="Screenshot 1" width="500" />
 
    
@@ -19,7 +18,7 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Define Starting Pose**:
    - Established a basic starting pose for the arm and filled in the remaining MoveIt configurations for exporting.
   
-   ![Screenshot 2](ConstructScreenshots/robotpose.png)
+   <img src="ConstructScreenshots/robotpose.png" alt="Screenshot 1" width="500" />
 
 ### Step 2: Object Detection
 1. **Camera Positioning**:
@@ -35,7 +34,7 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Camera Control**:
    - Utilized the calculated distances to adjust the camera's pan and tilt, maximizing object visibility.
   
-   ![Screenshot 3](ConstructScreenshots/camreaimage1.png)
+   <img src="ConstructScreenshots/camreaimage1.png" alt="Screenshot 1" width="500" />
 
 ### Step 3: Pick up of simple objects (TRIED)
 1. Choose the smallest and closest objects from the camera. (NEED TO GRAB IT BUT FAILED)
@@ -44,7 +43,9 @@ This project involves the integration of a robotic arm with object detection cap
 4. Drop the object in the dropzone
 5. Repeat the process until it's done
 
-![Screenshot 4](ConstructScreenshots/cameraimage2.png)
+<img src="ConstructScreenshots/cameraimage2.png" alt="Screenshot 1" width="500" />
+
+
 
 
 ### Individual contribution:
@@ -69,5 +70,6 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
 4. **Documentation**:
    - Niek: Made the presentation slides for step 1 and step 2 and github repo readme
    - Li-Wei: Made the presentation slide for step 3 and github repo readme
-  
-   https://drive.google.com/drive/folders/14n3xa3PelWMIRGtozO4ou4DMAuhrlF_Q?usp=drive_link
+
+Videos:
+https://drive.google.com/drive/folders/14n3xa3PelWMIRGtozO4ou4DMAuhrlF_Q?usp=drive_link
