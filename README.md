@@ -5,7 +5,7 @@ This project involves the integration of a robotic arm with object detection cap
 
 ## Setup and Configuration
 
-### MoveIt Setup
+### Step 1: MoveIt Setup
 1. **Create Planning Groups**:
    - Configured planning groups for the robotic arm and gripper.
    
@@ -15,7 +15,7 @@ This project involves the integration of a robotic arm with object detection cap
 3. **Define Starting Pose**:
    - Established a basic starting pose for the arm and filled in the remaining MoveIt configurations for exporting.
 
-### Object Detection
+### Step 2: Object Detection
 1. **Camera Positioning**:
    - Initially moved the robot arm out of the camera's view to avoid obstructions during detection.
 
@@ -29,15 +29,3 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Camera Control**:
    - Utilized the calculated distances to adjust the camera's pan and tilt, maximizing object visibility.
 
-## Getting Started
-- Ensure all dependencies are installed and configured, including ROS and MoveIt.
-- Connect the robot arm and camera to your system.
-- Launch the MoveIt node and the object detection script to begin interacting with the environment.
-
-## Usage
-- Run the MoveIt configuration to plan and execute movements.
-- Start the object detection script to identify and track objects in the camera's view.
-
-## Future Improvements
-- Enhance object detection algorithms to include more colors and shapes.
-- Implement feedback mechanisms to refine object tracking and arm movement accuracy.
