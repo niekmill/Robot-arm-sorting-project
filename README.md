@@ -29,3 +29,24 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Camera Control**:
    - Utilized the calculated distances to adjust the camera's pan and tilt, maximizing object visibility.
 
+### Step 3: Pick up of simple objects
+
+### Individual contribution:
+
+A lot of the tasks were split up into groups of 2 as we weren't able to use the construct program much individually during practical hours.
+
+1. **MoveIT Setup
+   - Niek: Created planning groups, set end-effector, define starting pose
+   - Vincentas: Created planning groups, set end-effector, define starting pose
+   - Lee Wei: Set virtual joints, set self collisions, configurate file
+   - Joshua: Set virtual joints, set self collisions, configurate file
+2. **Object Detection
+   - Niek: Set rgb values for color detection, helped make base for camera positioning
+   - Vincentas: Worked further on camera positioning base, Made color detection base, made distance calculation and camera control
+   - Lee Wei:
+   - Joshua:
+3. **Pick up of simple objects
+   - Niek:
+   - Vincentas:
+   - Lee Wei
+   - Joshua:
