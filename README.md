@@ -8,6 +8,8 @@ This project involves the integration of a robotic arm with object detection cap
 ### Step 1: MoveIt Setup
 1. **Create Planning Groups**:
    - Configured planning groups for the robotic arm and gripper.
+  
+   ![Screenshot 1](ConstructScreenshots/Screenshot 2024-10-24 at 20.38.48)
    
 2. **Set End-Effector**:
    - Defined the gripper as the end-effector with the robotic arm as the parent group.
