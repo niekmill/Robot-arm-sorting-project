@@ -65,12 +65,12 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
    - Niek: Set rgb values for color detection, helped make base for camera positioning
    - Vincentas: Worked further on camera positioning base, Made color detection base, made distance calculation, gripper setup and camera control, added a launch file, experimented with multiple ways of to find the method for letting camera get undisturbed (arm in front of the camera) view of the world.
    - Li-Wei: Worked on gripper, color + distance detection helped with camera positioning with Vincent
-   - Joshua:
+   - Joshua: Improved camera tracking logic, helped with camera positioning.
 3. **Pick up of simple objects**:
    - Niek: Try to use teleoperation.py to control the arm movement, tried to use scripts to get the coordinates of the object
    - Vincentas: Made gripper close (but sadly not grip) gripper.py, tried to position the robot inside simulation to find the perfect position for an arm to grip things, worked on differentiating between graspable and not graspable objects.
    - Li-Wei: Try to use teleoperation.py to control the arm movement, tried to use scripts to get the coordinates of the object
-   - Joshua:
+   - Joshua: Tried to use the distance from the camera and local coordinates to calculate the object coordinates.
 4. **Documentation**:
    - Niek: Made the presentation slides for step 1 and step 2 and github repo readme, video recording
    - Li-Wei: Made the presentation slide for step 3 and github repo readme, video recording
