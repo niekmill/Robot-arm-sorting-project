@@ -68,7 +68,7 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
    - Joshua:
 3. **Pick up of simple objects**:
    - Niek: Try to use teleoperation.py to control the arm movement, tried to use scripts to get the coordinates of the object
-   - Vincentas: 
+   - Vincentas: Made gripper close (but sadly not grip) gripper.py, tried to position the robot inside simulation to find the perfect position for an arm to grip things.
    - Li-Wei: Try to use teleoperation.py to control the arm movement, tried to use scripts to get the coordinates of the object
    - Joshua:
 4. **Documentation**:
