@@ -69,3 +69,5 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
 4. **Documentation**:
    - Niek: Made the presentation slides for step 1 and step 2 and github repo readme
    - Li-Wei: Made the presentation slide for step 3 and github repo readme
+  
+   https://drive.google.com/drive/folders/14n3xa3PelWMIRGtozO4ou4DMAuhrlF_Q?usp=drive_link
