@@ -10,11 +10,13 @@ This project involves the integration of a robotic arm with object detection cap
    - Configured planning groups for the robotic arm and gripper.
   
    ![Screenshot 1](ConstructScreenshots/planninggroup.png)
+   <img src="ConstructScreenshots/planninggroup.png" alt="Screenshot 1" width="500" />
+
    
-2. **Set End-Effector**:
+3. **Set End-Effector**:
    - Defined the gripper as the end-effector with the robotic arm as the parent group.
    
-3. **Define Starting Pose**:
+4. **Define Starting Pose**:
    - Established a basic starting pose for the arm and filled in the remaining MoveIt configurations for exporting.
   
    ![Screenshot 2](ConstructScreenshots/robotpose.png)
