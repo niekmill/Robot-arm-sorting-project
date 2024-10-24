@@ -9,7 +9,7 @@ This project involves the integration of a robotic arm with object detection cap
 1. **Create Planning Groups**:
    - Configured planning groups for the robotic arm and gripper.
   
-   ![Screenshot 1](ConstructScreenshots/planninggroup)
+   ![Screenshot 1](ConstructScreenshots/planninggroup.png)
    
 2. **Set End-Effector**:
    - Defined the gripper as the end-effector with the robotic arm as the parent group.
@@ -17,7 +17,7 @@ This project involves the integration of a robotic arm with object detection cap
 3. **Define Starting Pose**:
    - Established a basic starting pose for the arm and filled in the remaining MoveIt configurations for exporting.
   
-   ![Screenshot 2](ConstructScreenshots/robotpose)
+   ![Screenshot 2](ConstructScreenshots/robotpose.png)
 
 ### Step 2: Object Detection
 1. **Camera Positioning**:
@@ -33,7 +33,7 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Camera Control**:
    - Utilized the calculated distances to adjust the camera's pan and tilt, maximizing object visibility.
   
-   ![Screenshot 3](ConstructScreenshots/cameraimage1)
+   ![Screenshot 3](ConstructScreenshots/cameraimage1.png)
 
 ### Step 3: Pick up of simple objects (TRIED)
 1. Choose the smallest and closest objects from the camera. (NEED TO GRAB IT BUT FAILED)
@@ -42,7 +42,7 @@ This project involves the integration of a robotic arm with object detection cap
 4. Drop the object in the dropzone
 5. Repeat the process until it's done
 
-![Screenshot 4](ConstructScreenshots/cameraimage2)
+![Screenshot 4](ConstructScreenshots/cameraimage2.png)
 
 
 ### Individual contribution:
