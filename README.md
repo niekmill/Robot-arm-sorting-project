@@ -33,7 +33,7 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Camera Control**:
    - Utilized the calculated distances to adjust the camera's pan and tilt, maximizing object visibility.
   
-   ![Screenshot 3](ConstructScreenshots/cameraimage1.png)
+   ![Screenshot 3](ConstructScreenshots/camreaimage1.png)
 
 ### Step 3: Pick up of simple objects (TRIED)
 1. Choose the smallest and closest objects from the camera. (NEED TO GRAB IT BUT FAILED)
