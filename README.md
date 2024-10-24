@@ -29,8 +29,12 @@ This project involves the integration of a robotic arm with object detection cap
 4. **Camera Control**:
    - Utilized the calculated distances to adjust the camera's pan and tilt, maximizing object visibility.
 
-### Step 3: Pick up of simple objects
-
+### Step 3: Pick up of simple objects (TRIED)
+1. Choose the smallest and closest objects from the camera. (NEED TO GRAB IT BUT FAILED)
+2. Perform trajectory to grab the object
+3. Grab the object 
+4. Drop the object in the dropzone
+5. Repeat the process until it's done
 ### Individual contribution:
 
 A lot of the tasks were split up into groups of 2 as we weren't able to use the construct program much individually during practical hours.
@@ -42,11 +46,11 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
    - Joshua: Set virtual joints, set self collisions, configurate file
 2. **Object Detection
    - Niek: Set rgb values for color detection, helped make base for camera positioning
-   - Vincentas: Worked further on camera positioning base, Made color detection base, made distance calculation and camera control
-   - Li-Wei:
+   - Vincentas: Worked further on camera positioning base, Made color detection base, made distance calculation, gripper setup and camera control
+   - Li-Wei: Worked on gripper, color + distance detection helped with camera positioning with Vincent
    - Joshua:
 3. **Pick up of simple objects
    - Niek:
-   - Vincentas:
-   - Li-Wei:
+   - Vincentas: 
+   - Li-Wei: 
    - Joshua:
