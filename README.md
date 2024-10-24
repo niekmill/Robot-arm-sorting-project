@@ -67,11 +67,11 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
    - Li-Wei: Worked on gripper, color + distance detection helped with camera positioning with Vincent
    - Joshua:
 3. **Pick up of simple objects**:
-   - Niek:
+   - Niek: Try to use teleoperation.py to control the arm movement, tried to use scripts to get the coordinates of the object
    - Vincentas: 
-   - Li-Wei: 
+   - Li-Wei: Try to use teleoperation.py to control the arm movement, tried to use scripts to get the coordinates of the object
    - Joshua:
 4. **Documentation**:
-   - Niek: Made the presentation slides for step 1 and step 2 and github repo readme
-   - Li-Wei: Made the presentation slide for step 3 and github repo readme
+   - Niek: Made the presentation slides for step 1 and step 2 and github repo readme, video recording
+   - Li-Wei: Made the presentation slide for step 3 and github repo readme, video recording
 
