@@ -3,6 +3,10 @@
 ## Overview
 This project involves the integration of a robotic arm with object detection capabilities, allowing the arm to interact with identified objects based on color. The system utilizes MoveIt for motion planning and control, while a custom script detects objects in the camera's view.
 
+Videos:
+https://drive.google.com/drive/folders/14n3xa3PelWMIRGtozO4ou4DMAuhrlF_Q?usp=drive_link
+
+
 ## Setup and Configuration
 
 ### Step 1: MoveIt Setup
@@ -71,5 +75,3 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
    - Niek: Made the presentation slides for step 1 and step 2 and github repo readme
    - Li-Wei: Made the presentation slide for step 3 and github repo readme
 
-Videos:
-https://drive.google.com/drive/folders/14n3xa3PelWMIRGtozO4ou4DMAuhrlF_Q?usp=drive_link
