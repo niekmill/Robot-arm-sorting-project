@@ -38,15 +38,15 @@ A lot of the tasks were split up into groups of 2 as we weren't able to use the 
 1. **MoveIT Setup
    - Niek: Created planning groups, set end-effector, define starting pose
    - Vincentas: Created planning groups, set end-effector, define starting pose
-   - Lee Wei: Set virtual joints, set self collisions, configurate file
+   - Li-Wei: Set virtual joints, set self collisions, configurate file
    - Joshua: Set virtual joints, set self collisions, configurate file
 2. **Object Detection
    - Niek: Set rgb values for color detection, helped make base for camera positioning
    - Vincentas: Worked further on camera positioning base, Made color detection base, made distance calculation and camera control
-   - Lee Wei:
+   - Li-Wei:
    - Joshua:
 3. **Pick up of simple objects
    - Niek:
    - Vincentas:
-   - Lee Wei
+   - Li-Wei:
    - Joshua:
